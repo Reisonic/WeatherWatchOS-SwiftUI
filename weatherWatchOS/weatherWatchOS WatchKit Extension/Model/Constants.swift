@@ -19,7 +19,7 @@ class Constants{
     /// Ссылка на геокодинг
     static let apiLinkGeocoding = "http://api.openweathermap.org/geo/1.0/direct"
     /// Ключ для api
-    static let apiKey:String = "0daeea8538c8df2317ca582deabc327b"
+    static let apiKey:String = "apiKey"
     /// Система измерения - метрическая
     static let units:String = "metric"
     /// Язык ответа - русский
